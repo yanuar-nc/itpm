@@ -1,0 +1,8 @@
+menuyusun surat
+arsip dokumen
+search engine di arsip
+memo surat
+spesifikasi surat(jenis, ukuran, sifat)
+keberadaan surat
+grafik surat
+tenggang waktu(ada peringatan)
