@@ -1,0 +1,14 @@
+proses bisnis langsung ke sistem
+lane sistem ada di administrasi
+penerimaan surat masuk adalah menggunakan icon notif
+seharusnya ketua, pembantu ketua, unit harus login
+dikonsep dulu di BAAK untuk 
+diterakhir terima laporan diadministrasi
+
+dibuat lagi proses bisnis surat keluar
+yang titit banget daah
+verifikasi 
+puket verifikasi doang
+yang acc ketua doang
+kalau untuk toket langsung ke toket untuk di acc
+berarti di administrasi ada notiv untuk surat keluar
